@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(206, 240, 250);
+    font-family: sans-serif;
+}
+h1{
+    color: gold;
+    font-family: cursive;
+}
+h2{
+    color:gold;
+    font-family: sans-serif;
+    font-style: italic;
+}
+h3{
+    color: blue;
+}
+div{
+    background-color: gold;
+    color: coral;
+    font-family: serif;
+}
